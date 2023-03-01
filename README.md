@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🛠 I love to build Web-Apps and tools for the web, since I'm regularly working with all 3 OSs Linux, Windows and Mac (➡ works on all of them) and since the data is then in sync automatically. So you will rarely catch me developing a *normal* programm 😉
+🛠 I love to build Web-Apps and tools for the web, since I'm regularly working with all 3 OSs Linux, Windows and Mac (➡ works on all of them) and since the data is then in sync automatically. So you will rarely catch me developing a *normal* program 😉
 
 👨‍🎓➡👨‍🏫 I studied physics and computer science at the university of Konstanz and now I'm a teacher for those subjects at a german [Gymnasium](https://en.wikipedia.org/wiki/Gymnasium_(Germany))
 
