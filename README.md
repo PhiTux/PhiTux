@@ -10,6 +10,6 @@ I've experience with:
 - Linux Server Administration 🐧
 - Docker 🐋 (using **and** creating docker-images)
 - Web Frontend (based on Frameworks like [Svelte](https://svelte.dev/) and formerly [Vue.js](https://vuejs.org/))
-- Web Backend ([Python FastAPI](https://fastapi.tiangolo.com/) and [Go](go.dev))
+- Web Backend ([Python FastAPI](https://fastapi.tiangolo.com/) and [Go](https://go.dev))
 
 I love to compete at the [Advent of Code](https://adventofcode.com/) in December. I typically use Java for the challenge to keep my skills sharp, as it’s the language I teach in school.
