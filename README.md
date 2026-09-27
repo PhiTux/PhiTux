@@ -6,6 +6,8 @@
 
 💻 Hardly using Linux as desktop-OS at the moment (since the german school system is very dependent on Windows 🙄), but did so for several years during university and will probably use and love Linux forever as a server-OS 😍
 
+I build a lot of didactic Web-Tools for computer science. Those repos are here: [@tools-info-bw-de](https://github.com/tools-info-bw-de), since they are part of the website [tools.info-bw.de](https://info-bw.de/tools:start).
+
 I've experience with:
 - Linux Server Administration 🐧
 - Docker 🐋 (using **and** creating docker-images)
